@@ -8,7 +8,19 @@ export const dataFake = [
   {
     "id":"2",
     "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
+    "description": "nova série...",
+    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+  },
+  {
+    "id":"3",
+    "title": "Novo filme do pantera negra lançado em breve",
+    "description": "nova série...",
+    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+  },
+  {
+    "id":"4",
+    "title": "Novo filme dos X-men está em pós produção, afirma diretor",
+    "description": "nova série...",
     "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
   }
 ]
